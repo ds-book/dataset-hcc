@@ -1,11 +1,6 @@
 # Информация о наборе данных
-
-## Авторы датасета
-Miriam Santos, Pedro Abreu, Pedro Garcia-Laencina, Adelia Simao, Armando Carvalho
-
-### Для цитирования: 
-Santos MS, Abreu PH, García-Laencina PJ, Simão A, Carvalho A. A new cluster-based oversampling method for improving survival prediction of hepatocellular carcinoma patients. J Biomed Inform. 2015 Dec; 58:49-59. doi: 10.1016/j.jbi.2015.09.012
-https://www.sciencedirect.com/science/article/pii/S1532046415002063
+## Ссылка для скачивания
+https://github.com/ds-book/dataset-hcc/blob/main/hcc.csv
 
 ## Версия датасета
 
@@ -65,3 +60,10 @@ https://www.sciencedirect.com/science/article/pii/S1532046415002063
 - 48.Oxy — Oxygen Saturation (%) («Сатурация»), % (диапазон значений 0-126)
 - 49.Fer — Ferritin (ng/mL) («Ферритин»), нг/мл (диапазон значений 0-2230)
 - Class — Class Attribute («Атрибут класса»), 1 = Пациент выжил; 0 = Пациент умер
+
+## Авторы датасета
+Miriam Santos, Pedro Abreu, Pedro Garcia-Laencina, Adelia Simao, Armando Carvalho
+
+### Для цитирования: 
+Santos MS, Abreu PH, García-Laencina PJ, Simão A, Carvalho A. A new cluster-based oversampling method for improving survival prediction of hepatocellular carcinoma patients. J Biomed Inform. 2015 Dec; 58:49-59. doi: 10.1016/j.jbi.2015.09.012
+https://www.sciencedirect.com/science/article/pii/S1532046415002063
